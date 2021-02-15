@@ -1,0 +1,22 @@
+{
+    "start_time": 1555534983.8769548,
+    "target": null,
+    "server_path": "C:\\Users\\vrush\\Desktop\\python\\FinalProject\\hyperparameter-db-project-ds05\\black-friday",
+    "data_path": null,
+    "test_path": null,
+    "max_models": 9,
+    "run_time": 500,
+    "run_id": "13CGMmUMF",
+    "scale": false,
+    "classification": false,
+    "model_path": null,
+    "balance": false,
+    "balance_threshold": 0.2,
+    "project": null,
+    "end_time": 1555534983.8769548,
+    "execution_time": 0.0,
+    "run_path": "C:\\Users\\vrush\\Desktop\\python\\FinalProject\\hyperparameter-db-project-ds05\\black-friday\\13CGMmUMF",
+    "nthreads": 1,
+    "min_mem_size": 3,
+    "analysis": 0
+}
